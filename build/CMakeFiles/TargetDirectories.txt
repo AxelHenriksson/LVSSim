@@ -1,0 +1,3 @@
+F:/Programmering/CGraphics/build/CMakeFiles/CGraphics.dir
+F:/Programmering/CGraphics/build/CMakeFiles/edit_cache.dir
+F:/Programmering/CGraphics/build/CMakeFiles/rebuild_cache.dir

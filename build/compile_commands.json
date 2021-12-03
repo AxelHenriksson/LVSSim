@@ -1,0 +1,12 @@
+[
+{
+  "directory": "F:/Programmering/CGraphics/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/CGraphics.dir/includes_CXX.rsp -g -o CMakeFiles\\CGraphics.dir\\CGraphics.cpp.obj -c F:\\Programmering\\CGraphics\\CGraphics.cpp",
+  "file": "F:/Programmering/CGraphics/CGraphics.cpp"
+},
+{
+  "directory": "F:/Programmering/CGraphics/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\x86_64-w64-mingw32-gcc.exe  @CMakeFiles/CGraphics.dir/includes_C.rsp -g -o CMakeFiles\\CGraphics.dir\\glad.c.obj -c F:\\Programmering\\CGraphics\\glad.c",
+  "file": "F:/Programmering/CGraphics/glad.c"
+}
+]
