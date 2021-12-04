@@ -1,7 +1,12 @@
 cmake_minimum_required(VERSION 3.10)
 
+set(CMAKE_CXX_STANDARD 11)
+
 # set the project name
 project(CGraphics VERSION 0.1)
+
+# configure header to pass the version number to source code
+configure_file(src/headers/CGraphicsConfig.h.in CGraphicsConfig.h)
 
 #add libraries
 add_library(glfw STATIC IMPORTED)
@@ -11,21 +16,13 @@ set_target_properties(glfw PROPERTIES
 )
 
 # add the executable
-add_executable(CGraphics CGraphics.cpp glad.c)
-
-
-
-set(CMAKE_CXX_STANDARD 11)
-set(CMAKE_CXX_STANDARD_REQUIRED true)
-
-# configure header to pass the version number to source code
-configure_file(CGraphicsConfig.h.in CGraphicsConfig.h)
+add_executable(CGraphics src/CGraphics.cpp src/glad.c src/EBO.cpp src/VBO.cpp src/VAO.cpp src/shaders.cpp)
 
 target_link_libraries(CGraphics glfw)
 
 target_include_directories(CGraphics PUBLIC 
                             "${PROJECT_BINARY_DIR}"
-                            "${PROJECT_SOURCE_DIR}"
+                            "${PROJECT_SOURCE_DIR}/src/headers"
                             "${PROJECT_SOURCE_DIR}/inc"
                             )
 

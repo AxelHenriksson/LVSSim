@@ -1,5 +1,0 @@
-// the configured options and settings for CGraphics
-#define CGraphics_VERSION_MAJOR @CGraphics_VERSION_MAJOR@
-#define CGraphics_VERSION_MINOR @CGraphics_VERSION_MINOR@
-
-#define CGraphics_Application_Name "CGraphics"

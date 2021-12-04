@@ -28,12 +28,12 @@ set(CMAKE_MAKEFILE_DEPENDS
   "D:/CMake/share/cmake-3.20/Modules/Platform/Windows-windres.cmake"
   "D:/CMake/share/cmake-3.20/Modules/Platform/Windows.cmake"
   "D:/CMake/share/cmake-3.20/Modules/Platform/WindowsPaths.cmake"
-  "../CGraphicsConfig.h.in"
   "../CMakeLists.txt"
   "CMakeFiles/3.20.1/CMakeCCompiler.cmake"
   "CMakeFiles/3.20.1/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.20.1/CMakeRCCompiler.cmake"
   "CMakeFiles/3.20.1/CMakeSystem.cmake"
+  "../src/headers/CGraphicsConfig.h.in"
   )
 
 # The corresponding makefile is:

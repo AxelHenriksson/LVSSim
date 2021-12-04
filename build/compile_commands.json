@@ -1,12 +1,32 @@
 [
 {
   "directory": "F:/Programmering/CGraphics/build",
-  "command": "D:\\MinGW\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/CGraphics.dir/includes_CXX.rsp -g -o CMakeFiles\\CGraphics.dir\\CGraphics.cpp.obj -c F:\\Programmering\\CGraphics\\CGraphics.cpp",
-  "file": "F:/Programmering/CGraphics/CGraphics.cpp"
+  "command": "D:\\MinGW\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/CGraphics.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\CGraphics.dir\\src\\CGraphics.cpp.obj -c F:\\Programmering\\CGraphics\\src\\CGraphics.cpp",
+  "file": "F:/Programmering/CGraphics/src/CGraphics.cpp"
 },
 {
   "directory": "F:/Programmering/CGraphics/build",
-  "command": "D:\\MinGW\\mingw64\\bin\\x86_64-w64-mingw32-gcc.exe  @CMakeFiles/CGraphics.dir/includes_C.rsp -g -o CMakeFiles\\CGraphics.dir\\glad.c.obj -c F:\\Programmering\\CGraphics\\glad.c",
-  "file": "F:/Programmering/CGraphics/glad.c"
+  "command": "D:\\MinGW\\mingw64\\bin\\x86_64-w64-mingw32-gcc.exe  @CMakeFiles/CGraphics.dir/includes_C.rsp -g -o CMakeFiles\\CGraphics.dir\\src\\glad.c.obj -c F:\\Programmering\\CGraphics\\src\\glad.c",
+  "file": "F:/Programmering/CGraphics/src/glad.c"
+},
+{
+  "directory": "F:/Programmering/CGraphics/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/CGraphics.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\CGraphics.dir\\src\\EBO.cpp.obj -c F:\\Programmering\\CGraphics\\src\\EBO.cpp",
+  "file": "F:/Programmering/CGraphics/src/EBO.cpp"
+},
+{
+  "directory": "F:/Programmering/CGraphics/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/CGraphics.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\CGraphics.dir\\src\\VBO.cpp.obj -c F:\\Programmering\\CGraphics\\src\\VBO.cpp",
+  "file": "F:/Programmering/CGraphics/src/VBO.cpp"
+},
+{
+  "directory": "F:/Programmering/CGraphics/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/CGraphics.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\CGraphics.dir\\src\\VAO.cpp.obj -c F:\\Programmering\\CGraphics\\src\\VAO.cpp",
+  "file": "F:/Programmering/CGraphics/src/VAO.cpp"
+},
+{
+  "directory": "F:/Programmering/CGraphics/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/CGraphics.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\CGraphics.dir\\src\\shaders.cpp.obj -c F:\\Programmering\\CGraphics\\src\\shaders.cpp",
+  "file": "F:/Programmering/CGraphics/src/shaders.cpp"
 }
 ]

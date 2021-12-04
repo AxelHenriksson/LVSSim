@@ -8,8 +8,12 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "F:/Programmering/CGraphics/glad.c" "CMakeFiles/CGraphics.dir/glad.c.obj" "gcc" "CMakeFiles/CGraphics.dir/glad.c.obj.d"
-  "F:/Programmering/CGraphics/CGraphics.cpp" "CMakeFiles/CGraphics.dir/CGraphics.cpp.obj" "gcc" "CMakeFiles/CGraphics.dir/CGraphics.cpp.obj.d"
+  "F:/Programmering/CGraphics/src/glad.c" "CMakeFiles/CGraphics.dir/src/glad.c.obj" "gcc" "CMakeFiles/CGraphics.dir/src/glad.c.obj.d"
+  "F:/Programmering/CGraphics/src/CGraphics.cpp" "CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj" "gcc" "CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj.d"
+  "F:/Programmering/CGraphics/src/EBO.cpp" "CMakeFiles/CGraphics.dir/src/EBO.cpp.obj" "gcc" "CMakeFiles/CGraphics.dir/src/EBO.cpp.obj.d"
+  "F:/Programmering/CGraphics/src/VAO.cpp" "CMakeFiles/CGraphics.dir/src/VAO.cpp.obj" "gcc" "CMakeFiles/CGraphics.dir/src/VAO.cpp.obj.d"
+  "F:/Programmering/CGraphics/src/VBO.cpp" "CMakeFiles/CGraphics.dir/src/VBO.cpp.obj" "gcc" "CMakeFiles/CGraphics.dir/src/VBO.cpp.obj.d"
+  "F:/Programmering/CGraphics/src/shaders.cpp" "CMakeFiles/CGraphics.dir/src/shaders.cpp.obj" "gcc" "CMakeFiles/CGraphics.dir/src/shaders.cpp.obj.d"
   )
 
 # Targets to which this target links.

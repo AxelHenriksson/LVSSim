@@ -1,1 +1,1 @@
-CMakeFiles/CGraphics.dir/CGraphics.cpp.obj CMakeFiles/CGraphics.dir/glad.c.obj
+CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj CMakeFiles/CGraphics.dir/src/glad.c.obj CMakeFiles/CGraphics.dir/src/EBO.cpp.obj CMakeFiles/CGraphics.dir/src/VBO.cpp.obj CMakeFiles/CGraphics.dir/src/VAO.cpp.obj CMakeFiles/CGraphics.dir/src/shaders.cpp.obj

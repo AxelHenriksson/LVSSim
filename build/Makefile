@@ -128,53 +128,149 @@ CGraphics/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/build
 .PHONY : CGraphics/fast
 
-CGraphics.obj: CGraphics.cpp.obj
-.PHONY : CGraphics.obj
+src/CGraphics.obj: src/CGraphics.cpp.obj
+.PHONY : src/CGraphics.obj
 
 # target to build an object file
-CGraphics.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/CGraphics.cpp.obj
-.PHONY : CGraphics.cpp.obj
+src/CGraphics.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj
+.PHONY : src/CGraphics.cpp.obj
 
-CGraphics.i: CGraphics.cpp.i
-.PHONY : CGraphics.i
+src/CGraphics.i: src/CGraphics.cpp.i
+.PHONY : src/CGraphics.i
 
 # target to preprocess a source file
-CGraphics.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/CGraphics.cpp.i
-.PHONY : CGraphics.cpp.i
+src/CGraphics.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/CGraphics.cpp.i
+.PHONY : src/CGraphics.cpp.i
 
-CGraphics.s: CGraphics.cpp.s
-.PHONY : CGraphics.s
+src/CGraphics.s: src/CGraphics.cpp.s
+.PHONY : src/CGraphics.s
 
 # target to generate assembly for a file
-CGraphics.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/CGraphics.cpp.s
-.PHONY : CGraphics.cpp.s
+src/CGraphics.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/CGraphics.cpp.s
+.PHONY : src/CGraphics.cpp.s
 
-glad.obj: glad.c.obj
-.PHONY : glad.obj
+src/EBO.obj: src/EBO.cpp.obj
+.PHONY : src/EBO.obj
 
 # target to build an object file
-glad.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/glad.c.obj
-.PHONY : glad.c.obj
+src/EBO.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/EBO.cpp.obj
+.PHONY : src/EBO.cpp.obj
 
-glad.i: glad.c.i
-.PHONY : glad.i
+src/EBO.i: src/EBO.cpp.i
+.PHONY : src/EBO.i
 
 # target to preprocess a source file
-glad.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/glad.c.i
-.PHONY : glad.c.i
+src/EBO.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/EBO.cpp.i
+.PHONY : src/EBO.cpp.i
 
-glad.s: glad.c.s
-.PHONY : glad.s
+src/EBO.s: src/EBO.cpp.s
+.PHONY : src/EBO.s
 
 # target to generate assembly for a file
-glad.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/glad.c.s
-.PHONY : glad.c.s
+src/EBO.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/EBO.cpp.s
+.PHONY : src/EBO.cpp.s
+
+src/VAO.obj: src/VAO.cpp.obj
+.PHONY : src/VAO.obj
+
+# target to build an object file
+src/VAO.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/VAO.cpp.obj
+.PHONY : src/VAO.cpp.obj
+
+src/VAO.i: src/VAO.cpp.i
+.PHONY : src/VAO.i
+
+# target to preprocess a source file
+src/VAO.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/VAO.cpp.i
+.PHONY : src/VAO.cpp.i
+
+src/VAO.s: src/VAO.cpp.s
+.PHONY : src/VAO.s
+
+# target to generate assembly for a file
+src/VAO.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/VAO.cpp.s
+.PHONY : src/VAO.cpp.s
+
+src/VBO.obj: src/VBO.cpp.obj
+.PHONY : src/VBO.obj
+
+# target to build an object file
+src/VBO.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/VBO.cpp.obj
+.PHONY : src/VBO.cpp.obj
+
+src/VBO.i: src/VBO.cpp.i
+.PHONY : src/VBO.i
+
+# target to preprocess a source file
+src/VBO.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/VBO.cpp.i
+.PHONY : src/VBO.cpp.i
+
+src/VBO.s: src/VBO.cpp.s
+.PHONY : src/VBO.s
+
+# target to generate assembly for a file
+src/VBO.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/VBO.cpp.s
+.PHONY : src/VBO.cpp.s
+
+src/glad.obj: src/glad.c.obj
+.PHONY : src/glad.obj
+
+# target to build an object file
+src/glad.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/glad.c.obj
+.PHONY : src/glad.c.obj
+
+src/glad.i: src/glad.c.i
+.PHONY : src/glad.i
+
+# target to preprocess a source file
+src/glad.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/glad.c.i
+.PHONY : src/glad.c.i
+
+src/glad.s: src/glad.c.s
+.PHONY : src/glad.s
+
+# target to generate assembly for a file
+src/glad.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/glad.c.s
+.PHONY : src/glad.c.s
+
+src/shaders.obj: src/shaders.cpp.obj
+.PHONY : src/shaders.obj
+
+# target to build an object file
+src/shaders.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/shaders.cpp.obj
+.PHONY : src/shaders.cpp.obj
+
+src/shaders.i: src/shaders.cpp.i
+.PHONY : src/shaders.i
+
+# target to preprocess a source file
+src/shaders.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/shaders.cpp.i
+.PHONY : src/shaders.cpp.i
+
+src/shaders.s: src/shaders.cpp.s
+.PHONY : src/shaders.s
+
+# target to generate assembly for a file
+src/shaders.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/shaders.cpp.s
+.PHONY : src/shaders.cpp.s
 
 # Help Target
 help:
@@ -185,12 +281,24 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... CGraphics
-	@echo ... CGraphics.obj
-	@echo ... CGraphics.i
-	@echo ... CGraphics.s
-	@echo ... glad.obj
-	@echo ... glad.i
-	@echo ... glad.s
+	@echo ... src/CGraphics.obj
+	@echo ... src/CGraphics.i
+	@echo ... src/CGraphics.s
+	@echo ... src/EBO.obj
+	@echo ... src/EBO.i
+	@echo ... src/EBO.s
+	@echo ... src/VAO.obj
+	@echo ... src/VAO.i
+	@echo ... src/VAO.s
+	@echo ... src/VBO.obj
+	@echo ... src/VBO.i
+	@echo ... src/VBO.s
+	@echo ... src/glad.obj
+	@echo ... src/glad.i
+	@echo ... src/glad.s
+	@echo ... src/shaders.obj
+	@echo ... src/shaders.i
+	@echo ... src/shaders.s
 .PHONY : help
 
 

@@ -1,9 +1,30 @@
 CMakeFiles/CGraphics.dir/CGraphics.cpp.obj: \
  F:\Programmering\CGraphics\CGraphics.cpp \
- D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream \
+ F:/Programmering/CGraphics/CGraphics.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/math.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cmath \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/cpp_type_traits.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ext/type_traits.h \
+ D:/MinGW/mingw64/x86_64-w64-mingw32/include/math.h \
+ D:/MinGW/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ D:/MinGW/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ D:/MinGW/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ D:/MinGW/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ D:/MinGW/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ D:/MinGW/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_directx.h \
+ D:/MinGW/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/std_abs.h \
+ D:/MinGW/mingw64/x86_64-w64-mingw32/include/stdlib.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/limits.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/syslimits.h \
+ D:/MinGW/mingw64/x86_64-w64-mingw32/include/limits.h \
+ D:/MinGW/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/stdlib.h \
+ D:/MinGW/mingw64/x86_64-w64-mingw32/include/malloc.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iosfwd \
@@ -12,13 +33,6 @@ CMakeFiles/CGraphics.dir/CGraphics.cpp.obj: \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/postypes.h \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cwchar \
  D:/MinGW/mingw64/x86_64-w64-mingw32/include/wchar.h \
- D:/MinGW/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
- D:/MinGW/mingw64/x86_64-w64-mingw32/include/_mingw.h \
- D:/MinGW/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
- D:/MinGW/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
- D:/MinGW/mingw64/x86_64-w64-mingw32/include/vadefs.h \
- D:/MinGW/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_directx.h \
- D:/MinGW/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
  D:/MinGW/mingw64/x86_64-w64-mingw32/include/_mingw_print_push.h \
  D:/MinGW/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
  D:/MinGW/mingw64/x86_64-w64-mingw32/include/_mingw_stat64.h \
@@ -42,8 +56,6 @@ CMakeFiles/CGraphics.dir/CGraphics.cpp.obj: \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/char_traits.h \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/functexcept.h \
- D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/cpp_type_traits.h \
- D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ext/type_traits.h \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ext/numeric_traits.h \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_pair.h \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_types.h \
@@ -86,14 +98,6 @@ CMakeFiles/CGraphics.dir/CGraphics.cpp.obj: \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/alloc_traits.h \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ext/string_conversions.h \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cstdlib \
- D:/MinGW/mingw64/x86_64-w64-mingw32/include/stdlib.h \
- D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/limits.h \
- D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/syslimits.h \
- D:/MinGW/mingw64/x86_64-w64-mingw32/include/limits.h \
- D:/MinGW/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
- D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/stdlib.h \
- D:/MinGW/mingw64/x86_64-w64-mingw32/include/malloc.h \
- D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/std_abs.h \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cstdio \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cerrno \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/functional_hash.h \
@@ -119,4 +123,14 @@ CMakeFiles/CGraphics.dir/CGraphics.cpp.obj: \
  F:/Programmering/CGraphics/inc/glad/glad.h \
  F:/Programmering/CGraphics/inc/KHR/khrplatform.h \
  F:/Programmering/CGraphics/inc/GLFW/glfw3.h \
- F:\Programmering\CGraphics\build/CGraphicsConfig.h
+ F:/Programmering/CGraphics/shaders.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/fstream \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/codecvt.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/basic_file.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++io.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/fstream.tcc \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/sstream \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/sstream.tcc \
+ F:/Programmering/CGraphics/VAO.h F:/Programmering/CGraphics/VBO.h \
+ F:/Programmering/CGraphics/EBO.h \
+ F:/Programmering/CGraphics/build/CGraphicsConfig.h
