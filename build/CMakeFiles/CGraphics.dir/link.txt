@@ -1,3 +1,0 @@
-D:\CMake\bin\cmake.exe -E rm -f CMakeFiles\CGraphics.dir/objects.a
-D:\MinGW\mingw64\bin\ar.exe cr CMakeFiles\CGraphics.dir/objects.a @CMakeFiles\CGraphics.dir\objects1.rsp
-D:\MinGW\mingw64\bin\x86_64-w64-mingw32-g++.exe -g -Wl,--whole-archive CMakeFiles\CGraphics.dir/objects.a -Wl,--no-whole-archive -o CGraphics.exe -Wl,--out-implib,libCGraphics.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CGraphics.dir\linklibs.rsp

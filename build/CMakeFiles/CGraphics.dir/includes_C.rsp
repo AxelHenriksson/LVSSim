@@ -1,1 +1,0 @@
--IF:/Programmering/CGraphics/build -IF:/Programmering/CGraphics/src/headers -IF:/Programmering/CGraphics/inc -isystem F:/Programmering/CGraphics/inc/GLFW
