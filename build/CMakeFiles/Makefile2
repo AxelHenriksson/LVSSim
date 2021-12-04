@@ -188,12 +188,12 @@ CMakeFiles/ExperimentalSubmit.dir/clean:
 CMakeFiles/CGraphics.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=F:\Programmering\CGraphics\build\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9 "Built target CGraphics"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=F:\Programmering\CGraphics\build\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10 "Built target CGraphics"
 .PHONY : CMakeFiles/CGraphics.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/CGraphics.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start F:\Programmering\CGraphics\build\CMakeFiles 9
+	$(CMAKE_COMMAND) -E cmake_progress_start F:\Programmering\CGraphics\build\CMakeFiles 10
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CGraphics.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start F:\Programmering\CGraphics\build\CMakeFiles 0
 .PHONY : CMakeFiles/CGraphics.dir/rule
@@ -864,7 +864,7 @@ CMakeFiles/ContinuousCoverage.dir/clean:
 CMakeFiles/TestInstantiator.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestInstantiator.dir\build.make CMakeFiles/TestInstantiator.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestInstantiator.dir\build.make CMakeFiles/TestInstantiator.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=F:\Programmering\CGraphics\build\CMakeFiles --progress-num=10,11 "Built target TestInstantiator"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=F:\Programmering\CGraphics\build\CMakeFiles --progress-num=11,12 "Built target TestInstantiator"
 .PHONY : CMakeFiles/TestInstantiator.dir/all
 
 # Build rule for subdir invocation for target.

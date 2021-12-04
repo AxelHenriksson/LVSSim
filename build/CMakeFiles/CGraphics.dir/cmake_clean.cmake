@@ -4,6 +4,8 @@ file(REMOVE_RECURSE
   "CGraphics.pdb"
   "CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj"
   "CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj.d"
+  "CMakeFiles/CGraphics.dir/src/Camera.cpp.obj"
+  "CMakeFiles/CGraphics.dir/src/Camera.cpp.obj.d"
   "CMakeFiles/CGraphics.dir/src/EBO.cpp.obj"
   "CMakeFiles/CGraphics.dir/src/EBO.cpp.obj.d"
   "CMakeFiles/CGraphics.dir/src/Shader.cpp.obj"

@@ -13,5 +13,5 @@ CXX_DEFINES =
 
 CXX_INCLUDES = @CMakeFiles/CGraphics.dir/includes_CXX.rsp
 
-CXX_FLAGS = -g -std=gnu++11
+CXX_FLAGS = -g -std=gnu++17
 

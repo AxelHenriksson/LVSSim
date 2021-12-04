@@ -539,6 +539,30 @@ src/CGraphics.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/CGraphics.cpp.s
 .PHONY : src/CGraphics.cpp.s
 
+src/Camera.obj: src/Camera.cpp.obj
+.PHONY : src/Camera.obj
+
+# target to build an object file
+src/Camera.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/Camera.cpp.obj
+.PHONY : src/Camera.cpp.obj
+
+src/Camera.i: src/Camera.cpp.i
+.PHONY : src/Camera.i
+
+# target to preprocess a source file
+src/Camera.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/Camera.cpp.i
+.PHONY : src/Camera.cpp.i
+
+src/Camera.s: src/Camera.cpp.s
+.PHONY : src/Camera.s
+
+# target to generate assembly for a file
+src/Camera.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/Camera.cpp.s
+.PHONY : src/Camera.cpp.s
+
 src/EBO.obj: src/EBO.cpp.obj
 .PHONY : src/EBO.obj
 
@@ -773,6 +797,9 @@ help:
 	@echo ... src/CGraphics.obj
 	@echo ... src/CGraphics.i
 	@echo ... src/CGraphics.s
+	@echo ... src/Camera.obj
+	@echo ... src/Camera.i
+	@echo ... src/Camera.s
 	@echo ... src/EBO.obj
 	@echo ... src/EBO.i
 	@echo ... src/EBO.s

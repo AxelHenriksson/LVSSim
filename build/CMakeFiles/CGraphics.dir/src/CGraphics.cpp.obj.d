@@ -24,6 +24,36 @@ CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj: \
  D:/MinGW/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/stdlib.h \
  D:/MinGW/mingw64/x86_64-w64-mingw32/include/malloc.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/specfun.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/functexcept.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/exception_defines.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ext/numeric_traits.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_pair.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/move.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/concept_check.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/type_traits \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_types.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/debug/assertions.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/ptr_traits.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/debug/debug.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/predefined_ops.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/limits \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tr1/gamma.tcc \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tr1/special_function_util.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tr1/bessel_function.tcc \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tr1/special_function_util.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tr1/beta_function.tcc \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tr1/ell_integral.tcc \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tr1/exp_integral.tcc \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tr1/hypergeometric.tcc \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tr1/legendre_function.tcc \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tr1/modified_bessel_func.tcc \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tr1/poly_hermite.tcc \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tr1/poly_laguerre.tcc \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tr1/riemann_zeta.tcc \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios \
@@ -42,7 +72,6 @@ CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj: \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/exception \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/exception.h \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/exception_ptr.h \
- D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/exception_defines.h \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/cxxabi_init_exception.h \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/stddef.h \
  D:/MinGW/mingw64/x86_64-w64-mingw32/include/stddef.h \
@@ -50,21 +79,7 @@ CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj: \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/hash_bytes.h \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/new \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/nested_exception.h \
- D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/move.h \
- D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/concept_check.h \
- D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/type_traits \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/char_traits.h \
- D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h \
- D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/functexcept.h \
- D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ext/numeric_traits.h \
- D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_pair.h \
- D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_types.h \
- D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h \
- D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/debug/assertions.h \
- D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator.h \
- D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/ptr_traits.h \
- D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/debug/debug.h \
- D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/predefined_ops.h \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cstdint \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/stdint.h \
  D:/MinGW/mingw64/x86_64-w64-mingw32/include/stdint.h \
@@ -96,11 +111,13 @@ CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj: \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/basic_string.h \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ext/alloc_traits.h \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/alloc_traits.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/string_view \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/functional_hash.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/string_view.tcc \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ext/string_conversions.h \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cstdlib \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cstdio \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cerrno \
- D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/functional_hash.h \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/basic_string.tcc \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/locale_classes.tcc \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/system_error \
@@ -123,6 +140,200 @@ CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj: \
  F:/Programmering/CGraphics/inc/glad/glad.h \
  F:/Programmering/CGraphics/inc/KHR/khrplatform.h \
  F:/Programmering/CGraphics/inc/GLFW/glfw3.h \
+ F:/Programmering/CGraphics/inc/glm/glm.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/_fixes.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/setup.hpp \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cassert \
+ D:/MinGW/mingw64/x86_64-w64-mingw32/include/assert.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cstddef \
+ F:/Programmering/CGraphics/inc/glm/simd/platform.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/climits \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cfloat \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/float.h \
+ D:/MinGW/mingw64/x86_64-w64-mingw32/include/float.h \
+ F:/Programmering/CGraphics/inc/glm/fwd.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/qualifier.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/setup.hpp \
+ F:/Programmering/CGraphics/inc/glm/vec2.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_bool2.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/type_vec2.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/type_vec2.inl \
+ F:/Programmering/CGraphics/inc/glm/detail/compute_vector_relational.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_bool2_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_float2.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_float2_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_double2.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_double2_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_int2.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_int2_sized.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/scalar_int_sized.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/setup.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_uint2.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_uint2_sized.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/scalar_uint_sized.hpp \
+ F:/Programmering/CGraphics/inc/glm/vec3.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_bool3.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/type_vec3.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/type_vec3.inl \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_bool3_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_float3.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_float3_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_double3.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_double3_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_int3.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_int3_sized.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_uint3.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_uint3_sized.hpp \
+ F:/Programmering/CGraphics/inc/glm/vec4.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_bool4.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/type_vec4.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/type_vec4.inl \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_bool4_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_float4.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_float4_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_double4.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_double4_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_int4.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_int4_sized.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_uint4.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_uint4_sized.hpp \
+ F:/Programmering/CGraphics/inc/glm/mat2x2.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_double2x2.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/type_mat2x2.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/type_mat2x2.inl \
+ F:/Programmering/CGraphics/inc/glm/matrix.hpp \
+ F:/Programmering/CGraphics/inc/glm/mat2x3.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_double2x3.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/type_mat2x3.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/type_mat2x3.inl \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_double2x3_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_float2x3.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_float2x3_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/mat2x4.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_double2x4.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/type_mat2x4.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/type_mat2x4.inl \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_double2x4_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_float2x4.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_float2x4_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/mat3x2.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_double3x2.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/type_mat3x2.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/type_mat3x2.inl \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_double3x2_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_float3x2.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_float3x2_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/mat3x3.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_double3x3.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/type_mat3x3.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/type_mat3x3.inl \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_double3x3_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_float3x3.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_float3x3_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/mat3x4.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_double3x4.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/type_mat3x4.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/type_mat3x4.inl \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_double3x4_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_float3x4.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_float3x4_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/mat4x2.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_double4x2.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/type_mat4x2.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/type_mat4x2.inl \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_double4x2_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_float4x2.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_float4x2_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/mat4x3.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_double4x3.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/type_mat4x3.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/type_mat4x3.inl \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_double4x3_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_float4x3.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_float4x3_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/mat4x4.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_double4x4.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/type_mat4x4.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/type_mat4x4.inl \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_double4x4_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_float4x4.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_float4x4_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/func_matrix.inl \
+ F:/Programmering/CGraphics/inc/glm/geometric.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/func_geometric.inl \
+ F:/Programmering/CGraphics/inc/glm/exponential.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/type_vec1.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/type_vec1.inl \
+ F:/Programmering/CGraphics/inc/glm/detail/func_exponential.inl \
+ F:/Programmering/CGraphics/inc/glm/vector_relational.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/func_vector_relational.inl \
+ F:/Programmering/CGraphics/inc/glm/detail/_vectorize.hpp \
+ F:/Programmering/CGraphics/inc/glm/common.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/func_common.inl \
+ F:/Programmering/CGraphics/inc/glm/detail/compute_common.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_double2x2_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_float2x2.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_float2x2_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/trigonometric.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/func_trigonometric.inl \
+ F:/Programmering/CGraphics/inc/glm/packing.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/func_packing.inl \
+ F:/Programmering/CGraphics/inc/glm/detail/type_half.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/type_half.inl \
+ F:/Programmering/CGraphics/inc/glm/integer.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/func_integer.inl \
+ F:/Programmering/CGraphics/inc/glm/gtc/matrix_transform.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_projection.hpp \
+ F:/Programmering/CGraphics/inc/glm/gtc/constants.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/scalar_constants.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/scalar_constants.inl \
+ F:/Programmering/CGraphics/inc/glm/gtc/constants.inl \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_projection.inl \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_clip_space.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_clip_space.inl \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_transform.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/matrix_transform.inl \
+ F:/Programmering/CGraphics/inc/glm/gtc/matrix_transform.inl \
+ F:/Programmering/CGraphics/inc/glm/gtc/type_ptr.hpp \
+ F:/Programmering/CGraphics/inc/glm/gtc/quaternion.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_relational.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_relational.inl \
+ F:/Programmering/CGraphics/inc/glm/detail/type_float.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/quaternion_common.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/quaternion_geometric.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/quaternion_geometric.inl \
+ F:/Programmering/CGraphics/inc/glm/ext/quaternion_common.inl \
+ F:/Programmering/CGraphics/inc/glm/ext/quaternion_float.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/type_quat.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/quaternion_relational.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/quaternion_relational.inl \
+ F:/Programmering/CGraphics/inc/glm/detail/type_quat.inl \
+ F:/Programmering/CGraphics/inc/glm/ext/quaternion_float_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/quaternion_double.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/quaternion_double_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/quaternion_trigonometric.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/quaternion_trigonometric.inl \
+ F:/Programmering/CGraphics/inc/glm/ext/quaternion_transform.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/quaternion_transform.inl \
+ F:/Programmering/CGraphics/inc/glm/gtc/quaternion.inl \
+ F:/Programmering/CGraphics/inc/glm/gtc/epsilon.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/setup.hpp \
+ F:/Programmering/CGraphics/inc/glm/gtc/epsilon.inl \
+ F:/Programmering/CGraphics/inc/glm/gtc/vec1.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_bool1.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_bool1_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_float1.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_float1_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_double1.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_double1_precision.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_int1.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_int1_sized.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_uint1.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/vector_uint1_sized.hpp \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cstring \
+ D:/MinGW/mingw64/x86_64-w64-mingw32/include/string.h \
+ D:/MinGW/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+ F:/Programmering/CGraphics/inc/glm/gtc/type_ptr.inl \
  F:/Programmering/CGraphics/src/headers/Shader.h \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/fstream \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/codecvt.h \
@@ -136,4 +347,20 @@ CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj: \
  F:/Programmering/CGraphics/src/headers/EBO.h \
  F:/Programmering/CGraphics/src/headers/Texture.h \
  F:/Programmering/CGraphics/inc/stb/stb_image.h \
+ F:/Programmering/CGraphics/src/headers/Camera.h \
+ F:/Programmering/CGraphics/inc/glm/gtx/rotate_vector.hpp \
+ F:/Programmering/CGraphics/inc/glm/gtx/transform.hpp \
+ F:/Programmering/CGraphics/inc/glm/gtx/transform.inl \
+ F:/Programmering/CGraphics/inc/glm/gtx/rotate_vector.inl \
+ F:/Programmering/CGraphics/inc/glm/gtx/vector_angle.hpp \
+ F:/Programmering/CGraphics/inc/glm/gtx/quaternion.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/quaternion_exponential.hpp \
+ F:/Programmering/CGraphics/inc/glm/ext/quaternion_exponential.inl \
+ F:/Programmering/CGraphics/inc/glm/gtx/norm.hpp \
+ F:/Programmering/CGraphics/inc/glm/gtx/component_wise.hpp \
+ F:/Programmering/CGraphics/inc/glm/detail/setup.hpp \
+ F:/Programmering/CGraphics/inc/glm/gtx/component_wise.inl \
+ F:/Programmering/CGraphics/inc/glm/gtx/norm.inl \
+ F:/Programmering/CGraphics/inc/glm/gtx/quaternion.inl \
+ F:/Programmering/CGraphics/inc/glm/gtx/vector_angle.inl \
  F:/Programmering/CGraphics/build/CGraphicsConfig.h

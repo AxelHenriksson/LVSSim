@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.10)
 
-set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD 17)
 
 # set the project name
 project(CGraphics VERSION 0.1)
@@ -25,6 +25,7 @@ set(CGraphicsSources
                       "src/VAO.cpp" 
                       "src/Shader.cpp"
                       "src/Texture.cpp"
+                      "src/Camera.cpp"
                       )
 
 # add the executable

@@ -6,42 +6,47 @@
 },
 {
   "directory": "F:/Programmering/CGraphics/build",
-  "command": "D:\\MinGW\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/CGraphics.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\CGraphics.dir\\src\\stb.cpp.obj -c F:\\Programmering\\CGraphics\\src\\stb.cpp",
+  "command": "D:\\MinGW\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/CGraphics.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CGraphics.dir\\src\\stb.cpp.obj -c F:\\Programmering\\CGraphics\\src\\stb.cpp",
   "file": "F:/Programmering/CGraphics/src/stb.cpp"
 },
 {
   "directory": "F:/Programmering/CGraphics/build",
-  "command": "D:\\MinGW\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/CGraphics.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\CGraphics.dir\\src\\CGraphics.cpp.obj -c F:\\Programmering\\CGraphics\\src\\CGraphics.cpp",
+  "command": "D:\\MinGW\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/CGraphics.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CGraphics.dir\\src\\CGraphics.cpp.obj -c F:\\Programmering\\CGraphics\\src\\CGraphics.cpp",
   "file": "F:/Programmering/CGraphics/src/CGraphics.cpp"
 },
 {
   "directory": "F:/Programmering/CGraphics/build",
-  "command": "D:\\MinGW\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/CGraphics.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\CGraphics.dir\\src\\EBO.cpp.obj -c F:\\Programmering\\CGraphics\\src\\EBO.cpp",
+  "command": "D:\\MinGW\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/CGraphics.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CGraphics.dir\\src\\EBO.cpp.obj -c F:\\Programmering\\CGraphics\\src\\EBO.cpp",
   "file": "F:/Programmering/CGraphics/src/EBO.cpp"
 },
 {
   "directory": "F:/Programmering/CGraphics/build",
-  "command": "D:\\MinGW\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/CGraphics.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\CGraphics.dir\\src\\VBO.cpp.obj -c F:\\Programmering\\CGraphics\\src\\VBO.cpp",
+  "command": "D:\\MinGW\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/CGraphics.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CGraphics.dir\\src\\VBO.cpp.obj -c F:\\Programmering\\CGraphics\\src\\VBO.cpp",
   "file": "F:/Programmering/CGraphics/src/VBO.cpp"
 },
 {
   "directory": "F:/Programmering/CGraphics/build",
-  "command": "D:\\MinGW\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/CGraphics.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\CGraphics.dir\\src\\VAO.cpp.obj -c F:\\Programmering\\CGraphics\\src\\VAO.cpp",
+  "command": "D:\\MinGW\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/CGraphics.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CGraphics.dir\\src\\VAO.cpp.obj -c F:\\Programmering\\CGraphics\\src\\VAO.cpp",
   "file": "F:/Programmering/CGraphics/src/VAO.cpp"
 },
 {
   "directory": "F:/Programmering/CGraphics/build",
-  "command": "D:\\MinGW\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/CGraphics.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\CGraphics.dir\\src\\Shader.cpp.obj -c F:\\Programmering\\CGraphics\\src\\Shader.cpp",
+  "command": "D:\\MinGW\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/CGraphics.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CGraphics.dir\\src\\Shader.cpp.obj -c F:\\Programmering\\CGraphics\\src\\Shader.cpp",
   "file": "F:/Programmering/CGraphics/src/Shader.cpp"
 },
 {
   "directory": "F:/Programmering/CGraphics/build",
-  "command": "D:\\MinGW\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/CGraphics.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\CGraphics.dir\\src\\Texture.cpp.obj -c F:\\Programmering\\CGraphics\\src\\Texture.cpp",
+  "command": "D:\\MinGW\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/CGraphics.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CGraphics.dir\\src\\Texture.cpp.obj -c F:\\Programmering\\CGraphics\\src\\Texture.cpp",
   "file": "F:/Programmering/CGraphics/src/Texture.cpp"
 },
 {
   "directory": "F:/Programmering/CGraphics/build",
-  "command": "D:\\MinGW\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=gnu++11 -o CMakeFiles\\TestInstantiator.dir\\test\\TestInstantiator.cpp.obj -c F:\\Programmering\\CGraphics\\test\\TestInstantiator.cpp",
+  "command": "D:\\MinGW\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/CGraphics.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CGraphics.dir\\src\\Camera.cpp.obj -c F:\\Programmering\\CGraphics\\src\\Camera.cpp",
+  "file": "F:/Programmering/CGraphics/src/Camera.cpp"
+},
+{
+  "directory": "F:/Programmering/CGraphics/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=gnu++17 -o CMakeFiles\\TestInstantiator.dir\\test\\TestInstantiator.cpp.obj -c F:\\Programmering\\CGraphics\\test\\TestInstantiator.cpp",
   "file": "F:/Programmering/CGraphics/test/TestInstantiator.cpp"
 }
 ]

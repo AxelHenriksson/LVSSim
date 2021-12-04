@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "F:/Programmering/CGraphics/src/glad.c" "CMakeFiles/CGraphics.dir/src/glad.c.obj" "gcc" "CMakeFiles/CGraphics.dir/src/glad.c.obj.d"
   "F:/Programmering/CGraphics/src/CGraphics.cpp" "CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj" "gcc" "CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj.d"
+  "F:/Programmering/CGraphics/src/Camera.cpp" "CMakeFiles/CGraphics.dir/src/Camera.cpp.obj" "gcc" "CMakeFiles/CGraphics.dir/src/Camera.cpp.obj.d"
   "F:/Programmering/CGraphics/src/EBO.cpp" "CMakeFiles/CGraphics.dir/src/EBO.cpp.obj" "gcc" "CMakeFiles/CGraphics.dir/src/EBO.cpp.obj.d"
   "F:/Programmering/CGraphics/src/Shader.cpp" "CMakeFiles/CGraphics.dir/src/Shader.cpp.obj" "gcc" "CMakeFiles/CGraphics.dir/src/Shader.cpp.obj.d"
   "F:/Programmering/CGraphics/src/Texture.cpp" "CMakeFiles/CGraphics.dir/src/Texture.cpp.obj" "gcc" "CMakeFiles/CGraphics.dir/src/Texture.cpp.obj.d"
