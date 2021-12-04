@@ -563,6 +563,54 @@ src/EBO.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/EBO.cpp.s
 .PHONY : src/EBO.cpp.s
 
+src/Shader.obj: src/Shader.cpp.obj
+.PHONY : src/Shader.obj
+
+# target to build an object file
+src/Shader.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/Shader.cpp.obj
+.PHONY : src/Shader.cpp.obj
+
+src/Shader.i: src/Shader.cpp.i
+.PHONY : src/Shader.i
+
+# target to preprocess a source file
+src/Shader.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/Shader.cpp.i
+.PHONY : src/Shader.cpp.i
+
+src/Shader.s: src/Shader.cpp.s
+.PHONY : src/Shader.s
+
+# target to generate assembly for a file
+src/Shader.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/Shader.cpp.s
+.PHONY : src/Shader.cpp.s
+
+src/Texture.obj: src/Texture.cpp.obj
+.PHONY : src/Texture.obj
+
+# target to build an object file
+src/Texture.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/Texture.cpp.obj
+.PHONY : src/Texture.cpp.obj
+
+src/Texture.i: src/Texture.cpp.i
+.PHONY : src/Texture.i
+
+# target to preprocess a source file
+src/Texture.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/Texture.cpp.i
+.PHONY : src/Texture.cpp.i
+
+src/Texture.s: src/Texture.cpp.s
+.PHONY : src/Texture.s
+
+# target to generate assembly for a file
+src/Texture.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/Texture.cpp.s
+.PHONY : src/Texture.cpp.s
+
 src/VAO.obj: src/VAO.cpp.obj
 .PHONY : src/VAO.obj
 
@@ -635,29 +683,29 @@ src/glad.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/glad.c.s
 .PHONY : src/glad.c.s
 
-src/shaders.obj: src/shaders.cpp.obj
-.PHONY : src/shaders.obj
+src/stb.obj: src/stb.cpp.obj
+.PHONY : src/stb.obj
 
 # target to build an object file
-src/shaders.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/shaders.cpp.obj
-.PHONY : src/shaders.cpp.obj
+src/stb.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/stb.cpp.obj
+.PHONY : src/stb.cpp.obj
 
-src/shaders.i: src/shaders.cpp.i
-.PHONY : src/shaders.i
+src/stb.i: src/stb.cpp.i
+.PHONY : src/stb.i
 
 # target to preprocess a source file
-src/shaders.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/shaders.cpp.i
-.PHONY : src/shaders.cpp.i
+src/stb.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/stb.cpp.i
+.PHONY : src/stb.cpp.i
 
-src/shaders.s: src/shaders.cpp.s
-.PHONY : src/shaders.s
+src/stb.s: src/stb.cpp.s
+.PHONY : src/stb.s
 
 # target to generate assembly for a file
-src/shaders.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/shaders.cpp.s
-.PHONY : src/shaders.cpp.s
+src/stb.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CGraphics.dir\build.make CMakeFiles/CGraphics.dir/src/stb.cpp.s
+.PHONY : src/stb.cpp.s
 
 test/TestInstantiator.obj: test/TestInstantiator.cpp.obj
 .PHONY : test/TestInstantiator.obj
@@ -728,6 +776,12 @@ help:
 	@echo ... src/EBO.obj
 	@echo ... src/EBO.i
 	@echo ... src/EBO.s
+	@echo ... src/Shader.obj
+	@echo ... src/Shader.i
+	@echo ... src/Shader.s
+	@echo ... src/Texture.obj
+	@echo ... src/Texture.i
+	@echo ... src/Texture.s
 	@echo ... src/VAO.obj
 	@echo ... src/VAO.i
 	@echo ... src/VAO.s
@@ -737,9 +791,9 @@ help:
 	@echo ... src/glad.obj
 	@echo ... src/glad.i
 	@echo ... src/glad.s
-	@echo ... src/shaders.obj
-	@echo ... src/shaders.i
-	@echo ... src/shaders.s
+	@echo ... src/stb.obj
+	@echo ... src/stb.i
+	@echo ... src/stb.s
 	@echo ... test/TestInstantiator.obj
 	@echo ... test/TestInstantiator.i
 	@echo ... test/TestInstantiator.s

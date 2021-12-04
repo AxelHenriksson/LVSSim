@@ -123,7 +123,7 @@ CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj: \
  F:/Programmering/CGraphics/inc/glad/glad.h \
  F:/Programmering/CGraphics/inc/KHR/khrplatform.h \
  F:/Programmering/CGraphics/inc/GLFW/glfw3.h \
- F:/Programmering/CGraphics/src/headers/shaders.h \
+ F:/Programmering/CGraphics/src/headers/Shader.h \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/fstream \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/codecvt.h \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/basic_file.h \
@@ -134,4 +134,6 @@ CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj: \
  F:/Programmering/CGraphics/src/headers/VAO.h \
  F:/Programmering/CGraphics/src/headers/VBO.h \
  F:/Programmering/CGraphics/src/headers/EBO.h \
+ F:/Programmering/CGraphics/src/headers/Texture.h \
+ F:/Programmering/CGraphics/inc/stb/stb_image.h \
  F:/Programmering/CGraphics/build/CGraphicsConfig.h

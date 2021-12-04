@@ -15,8 +15,20 @@ set_target_properties(glfw PROPERTIES
   INTERFACE_INCLUDE_DIRECTORIES "${PROJECT_SOURCE_DIR}/inc/GLFW"
 )
 
+set(CGraphicsSources  
+                      "src/glad.c" 
+                      "src/stb.cpp"
+
+                      "src/CGraphics.cpp"
+                      "src/EBO.cpp" 
+                      "src/VBO.cpp" 
+                      "src/VAO.cpp" 
+                      "src/Shader.cpp"
+                      "src/Texture.cpp"
+                      )
+
 # add the executable
-add_executable(CGraphics src/CGraphics.cpp src/glad.c src/EBO.cpp src/VBO.cpp src/VAO.cpp src/shaders.cpp)
+add_executable(CGraphics ${CGraphicsSources})
 
 target_link_libraries(CGraphics glfw)
 

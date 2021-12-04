@@ -68,26 +68,11 @@ include CMakeFiles/CGraphics.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CGraphics.dir/flags.make
 
-CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj: CMakeFiles/CGraphics.dir/flags.make
-CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj: CMakeFiles/CGraphics.dir/includes_CXX.rsp
-CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj: ../src/CGraphics.cpp
-CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj: CMakeFiles/CGraphics.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\Programmering\CGraphics\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj"
-	D:\MinGW\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj -MF CMakeFiles\CGraphics.dir\src\CGraphics.cpp.obj.d -o CMakeFiles\CGraphics.dir\src\CGraphics.cpp.obj -c F:\Programmering\CGraphics\src\CGraphics.cpp
-
-CMakeFiles/CGraphics.dir/src/CGraphics.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CGraphics.dir/src/CGraphics.cpp.i"
-	D:\MinGW\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\Programmering\CGraphics\src\CGraphics.cpp > CMakeFiles\CGraphics.dir\src\CGraphics.cpp.i
-
-CMakeFiles/CGraphics.dir/src/CGraphics.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CGraphics.dir/src/CGraphics.cpp.s"
-	D:\MinGW\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\Programmering\CGraphics\src\CGraphics.cpp -o CMakeFiles\CGraphics.dir\src\CGraphics.cpp.s
-
 CMakeFiles/CGraphics.dir/src/glad.c.obj: CMakeFiles/CGraphics.dir/flags.make
 CMakeFiles/CGraphics.dir/src/glad.c.obj: CMakeFiles/CGraphics.dir/includes_C.rsp
 CMakeFiles/CGraphics.dir/src/glad.c.obj: ../src/glad.c
 CMakeFiles/CGraphics.dir/src/glad.c.obj: CMakeFiles/CGraphics.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\Programmering\CGraphics\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/CGraphics.dir/src/glad.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\Programmering\CGraphics\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/CGraphics.dir/src/glad.c.obj"
 	D:\MinGW\mingw64\bin\x86_64-w64-mingw32-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/CGraphics.dir/src/glad.c.obj -MF CMakeFiles\CGraphics.dir\src\glad.c.obj.d -o CMakeFiles\CGraphics.dir\src\glad.c.obj -c F:\Programmering\CGraphics\src\glad.c
 
 CMakeFiles/CGraphics.dir/src/glad.c.i: cmake_force
@@ -98,11 +83,41 @@ CMakeFiles/CGraphics.dir/src/glad.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/CGraphics.dir/src/glad.c.s"
 	D:\MinGW\mingw64\bin\x86_64-w64-mingw32-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S F:\Programmering\CGraphics\src\glad.c -o CMakeFiles\CGraphics.dir\src\glad.c.s
 
+CMakeFiles/CGraphics.dir/src/stb.cpp.obj: CMakeFiles/CGraphics.dir/flags.make
+CMakeFiles/CGraphics.dir/src/stb.cpp.obj: CMakeFiles/CGraphics.dir/includes_CXX.rsp
+CMakeFiles/CGraphics.dir/src/stb.cpp.obj: ../src/stb.cpp
+CMakeFiles/CGraphics.dir/src/stb.cpp.obj: CMakeFiles/CGraphics.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\Programmering\CGraphics\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CGraphics.dir/src/stb.cpp.obj"
+	D:\MinGW\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CGraphics.dir/src/stb.cpp.obj -MF CMakeFiles\CGraphics.dir\src\stb.cpp.obj.d -o CMakeFiles\CGraphics.dir\src\stb.cpp.obj -c F:\Programmering\CGraphics\src\stb.cpp
+
+CMakeFiles/CGraphics.dir/src/stb.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CGraphics.dir/src/stb.cpp.i"
+	D:\MinGW\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\Programmering\CGraphics\src\stb.cpp > CMakeFiles\CGraphics.dir\src\stb.cpp.i
+
+CMakeFiles/CGraphics.dir/src/stb.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CGraphics.dir/src/stb.cpp.s"
+	D:\MinGW\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\Programmering\CGraphics\src\stb.cpp -o CMakeFiles\CGraphics.dir\src\stb.cpp.s
+
+CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj: CMakeFiles/CGraphics.dir/flags.make
+CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj: CMakeFiles/CGraphics.dir/includes_CXX.rsp
+CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj: ../src/CGraphics.cpp
+CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj: CMakeFiles/CGraphics.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\Programmering\CGraphics\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj"
+	D:\MinGW\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj -MF CMakeFiles\CGraphics.dir\src\CGraphics.cpp.obj.d -o CMakeFiles\CGraphics.dir\src\CGraphics.cpp.obj -c F:\Programmering\CGraphics\src\CGraphics.cpp
+
+CMakeFiles/CGraphics.dir/src/CGraphics.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CGraphics.dir/src/CGraphics.cpp.i"
+	D:\MinGW\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\Programmering\CGraphics\src\CGraphics.cpp > CMakeFiles\CGraphics.dir\src\CGraphics.cpp.i
+
+CMakeFiles/CGraphics.dir/src/CGraphics.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CGraphics.dir/src/CGraphics.cpp.s"
+	D:\MinGW\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\Programmering\CGraphics\src\CGraphics.cpp -o CMakeFiles\CGraphics.dir\src\CGraphics.cpp.s
+
 CMakeFiles/CGraphics.dir/src/EBO.cpp.obj: CMakeFiles/CGraphics.dir/flags.make
 CMakeFiles/CGraphics.dir/src/EBO.cpp.obj: CMakeFiles/CGraphics.dir/includes_CXX.rsp
 CMakeFiles/CGraphics.dir/src/EBO.cpp.obj: ../src/EBO.cpp
 CMakeFiles/CGraphics.dir/src/EBO.cpp.obj: CMakeFiles/CGraphics.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\Programmering\CGraphics\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CGraphics.dir/src/EBO.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\Programmering\CGraphics\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CGraphics.dir/src/EBO.cpp.obj"
 	D:\MinGW\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CGraphics.dir/src/EBO.cpp.obj -MF CMakeFiles\CGraphics.dir\src\EBO.cpp.obj.d -o CMakeFiles\CGraphics.dir\src\EBO.cpp.obj -c F:\Programmering\CGraphics\src\EBO.cpp
 
 CMakeFiles/CGraphics.dir/src/EBO.cpp.i: cmake_force
@@ -117,7 +132,7 @@ CMakeFiles/CGraphics.dir/src/VBO.cpp.obj: CMakeFiles/CGraphics.dir/flags.make
 CMakeFiles/CGraphics.dir/src/VBO.cpp.obj: CMakeFiles/CGraphics.dir/includes_CXX.rsp
 CMakeFiles/CGraphics.dir/src/VBO.cpp.obj: ../src/VBO.cpp
 CMakeFiles/CGraphics.dir/src/VBO.cpp.obj: CMakeFiles/CGraphics.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\Programmering\CGraphics\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CGraphics.dir/src/VBO.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\Programmering\CGraphics\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CGraphics.dir/src/VBO.cpp.obj"
 	D:\MinGW\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CGraphics.dir/src/VBO.cpp.obj -MF CMakeFiles\CGraphics.dir\src\VBO.cpp.obj.d -o CMakeFiles\CGraphics.dir\src\VBO.cpp.obj -c F:\Programmering\CGraphics\src\VBO.cpp
 
 CMakeFiles/CGraphics.dir/src/VBO.cpp.i: cmake_force
@@ -132,7 +147,7 @@ CMakeFiles/CGraphics.dir/src/VAO.cpp.obj: CMakeFiles/CGraphics.dir/flags.make
 CMakeFiles/CGraphics.dir/src/VAO.cpp.obj: CMakeFiles/CGraphics.dir/includes_CXX.rsp
 CMakeFiles/CGraphics.dir/src/VAO.cpp.obj: ../src/VAO.cpp
 CMakeFiles/CGraphics.dir/src/VAO.cpp.obj: CMakeFiles/CGraphics.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\Programmering\CGraphics\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CGraphics.dir/src/VAO.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\Programmering\CGraphics\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/CGraphics.dir/src/VAO.cpp.obj"
 	D:\MinGW\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CGraphics.dir/src/VAO.cpp.obj -MF CMakeFiles\CGraphics.dir\src\VAO.cpp.obj.d -o CMakeFiles\CGraphics.dir\src\VAO.cpp.obj -c F:\Programmering\CGraphics\src\VAO.cpp
 
 CMakeFiles/CGraphics.dir/src/VAO.cpp.i: cmake_force
@@ -143,45 +158,64 @@ CMakeFiles/CGraphics.dir/src/VAO.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CGraphics.dir/src/VAO.cpp.s"
 	D:\MinGW\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\Programmering\CGraphics\src\VAO.cpp -o CMakeFiles\CGraphics.dir\src\VAO.cpp.s
 
-CMakeFiles/CGraphics.dir/src/shaders.cpp.obj: CMakeFiles/CGraphics.dir/flags.make
-CMakeFiles/CGraphics.dir/src/shaders.cpp.obj: CMakeFiles/CGraphics.dir/includes_CXX.rsp
-CMakeFiles/CGraphics.dir/src/shaders.cpp.obj: ../src/shaders.cpp
-CMakeFiles/CGraphics.dir/src/shaders.cpp.obj: CMakeFiles/CGraphics.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\Programmering\CGraphics\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/CGraphics.dir/src/shaders.cpp.obj"
-	D:\MinGW\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CGraphics.dir/src/shaders.cpp.obj -MF CMakeFiles\CGraphics.dir\src\shaders.cpp.obj.d -o CMakeFiles\CGraphics.dir\src\shaders.cpp.obj -c F:\Programmering\CGraphics\src\shaders.cpp
+CMakeFiles/CGraphics.dir/src/Shader.cpp.obj: CMakeFiles/CGraphics.dir/flags.make
+CMakeFiles/CGraphics.dir/src/Shader.cpp.obj: CMakeFiles/CGraphics.dir/includes_CXX.rsp
+CMakeFiles/CGraphics.dir/src/Shader.cpp.obj: ../src/Shader.cpp
+CMakeFiles/CGraphics.dir/src/Shader.cpp.obj: CMakeFiles/CGraphics.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\Programmering\CGraphics\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/CGraphics.dir/src/Shader.cpp.obj"
+	D:\MinGW\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CGraphics.dir/src/Shader.cpp.obj -MF CMakeFiles\CGraphics.dir\src\Shader.cpp.obj.d -o CMakeFiles\CGraphics.dir\src\Shader.cpp.obj -c F:\Programmering\CGraphics\src\Shader.cpp
 
-CMakeFiles/CGraphics.dir/src/shaders.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CGraphics.dir/src/shaders.cpp.i"
-	D:\MinGW\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\Programmering\CGraphics\src\shaders.cpp > CMakeFiles\CGraphics.dir\src\shaders.cpp.i
+CMakeFiles/CGraphics.dir/src/Shader.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CGraphics.dir/src/Shader.cpp.i"
+	D:\MinGW\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\Programmering\CGraphics\src\Shader.cpp > CMakeFiles\CGraphics.dir\src\Shader.cpp.i
 
-CMakeFiles/CGraphics.dir/src/shaders.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CGraphics.dir/src/shaders.cpp.s"
-	D:\MinGW\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\Programmering\CGraphics\src\shaders.cpp -o CMakeFiles\CGraphics.dir\src\shaders.cpp.s
+CMakeFiles/CGraphics.dir/src/Shader.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CGraphics.dir/src/Shader.cpp.s"
+	D:\MinGW\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\Programmering\CGraphics\src\Shader.cpp -o CMakeFiles\CGraphics.dir\src\Shader.cpp.s
+
+CMakeFiles/CGraphics.dir/src/Texture.cpp.obj: CMakeFiles/CGraphics.dir/flags.make
+CMakeFiles/CGraphics.dir/src/Texture.cpp.obj: CMakeFiles/CGraphics.dir/includes_CXX.rsp
+CMakeFiles/CGraphics.dir/src/Texture.cpp.obj: ../src/Texture.cpp
+CMakeFiles/CGraphics.dir/src/Texture.cpp.obj: CMakeFiles/CGraphics.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\Programmering\CGraphics\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/CGraphics.dir/src/Texture.cpp.obj"
+	D:\MinGW\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CGraphics.dir/src/Texture.cpp.obj -MF CMakeFiles\CGraphics.dir\src\Texture.cpp.obj.d -o CMakeFiles\CGraphics.dir\src\Texture.cpp.obj -c F:\Programmering\CGraphics\src\Texture.cpp
+
+CMakeFiles/CGraphics.dir/src/Texture.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CGraphics.dir/src/Texture.cpp.i"
+	D:\MinGW\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\Programmering\CGraphics\src\Texture.cpp > CMakeFiles\CGraphics.dir\src\Texture.cpp.i
+
+CMakeFiles/CGraphics.dir/src/Texture.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CGraphics.dir/src/Texture.cpp.s"
+	D:\MinGW\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\Programmering\CGraphics\src\Texture.cpp -o CMakeFiles\CGraphics.dir\src\Texture.cpp.s
 
 # Object files for target CGraphics
 CGraphics_OBJECTS = \
-"CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj" \
 "CMakeFiles/CGraphics.dir/src/glad.c.obj" \
+"CMakeFiles/CGraphics.dir/src/stb.cpp.obj" \
+"CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj" \
 "CMakeFiles/CGraphics.dir/src/EBO.cpp.obj" \
 "CMakeFiles/CGraphics.dir/src/VBO.cpp.obj" \
 "CMakeFiles/CGraphics.dir/src/VAO.cpp.obj" \
-"CMakeFiles/CGraphics.dir/src/shaders.cpp.obj"
+"CMakeFiles/CGraphics.dir/src/Shader.cpp.obj" \
+"CMakeFiles/CGraphics.dir/src/Texture.cpp.obj"
 
 # External object files for target CGraphics
 CGraphics_EXTERNAL_OBJECTS =
 
-CGraphics.exe: CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj
 CGraphics.exe: CMakeFiles/CGraphics.dir/src/glad.c.obj
+CGraphics.exe: CMakeFiles/CGraphics.dir/src/stb.cpp.obj
+CGraphics.exe: CMakeFiles/CGraphics.dir/src/CGraphics.cpp.obj
 CGraphics.exe: CMakeFiles/CGraphics.dir/src/EBO.cpp.obj
 CGraphics.exe: CMakeFiles/CGraphics.dir/src/VBO.cpp.obj
 CGraphics.exe: CMakeFiles/CGraphics.dir/src/VAO.cpp.obj
-CGraphics.exe: CMakeFiles/CGraphics.dir/src/shaders.cpp.obj
+CGraphics.exe: CMakeFiles/CGraphics.dir/src/Shader.cpp.obj
+CGraphics.exe: CMakeFiles/CGraphics.dir/src/Texture.cpp.obj
 CGraphics.exe: CMakeFiles/CGraphics.dir/build.make
 CGraphics.exe: ../lib/libglfw3.a
 CGraphics.exe: CMakeFiles/CGraphics.dir/linklibs.rsp
 CGraphics.exe: CMakeFiles/CGraphics.dir/objects1.rsp
 CGraphics.exe: CMakeFiles/CGraphics.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\Programmering\CGraphics\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable CGraphics.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\Programmering\CGraphics\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable CGraphics.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\CGraphics.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
