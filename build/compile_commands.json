@@ -28,5 +28,10 @@
   "directory": "F:/Programmering/CGraphics/build",
   "command": "D:\\MinGW\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/CGraphics.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\CGraphics.dir\\src\\shaders.cpp.obj -c F:\\Programmering\\CGraphics\\src\\shaders.cpp",
   "file": "F:/Programmering/CGraphics/src/shaders.cpp"
+},
+{
+  "directory": "F:/Programmering/CGraphics/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=gnu++11 -o CMakeFiles\\TestInstantiator.dir\\test\\TestInstantiator.cpp.obj -c F:\\Programmering\\CGraphics\\test\\TestInstantiator.cpp",
+  "file": "F:/Programmering/CGraphics/test/TestInstantiator.cpp"
 }
 ]

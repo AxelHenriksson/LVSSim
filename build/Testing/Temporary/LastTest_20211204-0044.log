@@ -1,0 +1,19 @@
+Start testing: Dec 04 01:56 Västeuropa, normaltid
+----------------------------------------------------------
+1/1 Testing: TestInstantiator
+1/1 Test: TestInstantiator
+Command: "F:/Programmering/CGraphics/build/TestInstantiator.exe"
+Directory: F:/Programmering/CGraphics/build
+"TestInstantiator" start time: Dec 04 01:56 Västeuropa, normaltid
+Output:
+----------------------------------------------------------
+This is a test
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"TestInstantiator" end time: Dec 04 01:56 Västeuropa, normaltid
+"TestInstantiator" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 04 01:56 Västeuropa, normaltid

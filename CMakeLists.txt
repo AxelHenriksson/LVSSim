@@ -26,3 +26,9 @@ target_include_directories(CGraphics PUBLIC
                             "${PROJECT_SOURCE_DIR}/inc"
                             )
 
+                            
+#Testing
+include(CTest)
+add_executable(TestInstantiator test/TestInstantiator.cpp)
+add_test(NAME TestInstantiator
+         COMMAND TestInstantiator)
