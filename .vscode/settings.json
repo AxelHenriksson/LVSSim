@@ -1,6 +1,7 @@
 {
     "files.associations": {
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "limits": "cpp"
     },
     "breadcrumbs.filePath": "off",
     "workbench.editor.limit.enabled": true,

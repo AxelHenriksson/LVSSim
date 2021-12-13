@@ -5,6 +5,7 @@ set(CMAKE_CXX_STANDARD 17)
 # set the project name
 project(CGraphics VERSION 0.1)
 
+
 # configure header to pass the version number to source code
 configure_file(src/headers/CGraphicsConfig.h.in CGraphicsConfig.h)
 
