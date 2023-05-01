@@ -24,7 +24,7 @@ void main()
    float ambient = 0.20f;
    float specularIntensity = 0.50f;
 
-   vec3 normal = polyNormal + texture(normalTex, texCoord);
+   vec3 normal = polyNormal + texture(normalTex, texCoord).xyz;
 
    vec3 unitNormal = normalize(normal);
    vec3 lightDirection = normalize(lightPos - currentPos);
@@ -35,5 +35,5 @@ void main()
    float specAmount = pow(max(dot(viewDirection, reflectionDirection), 0.0f), 16);
    float specular = specAmount * specularIntensity;
 
-   FragColor = texture(diffuseTex, texCoord) * lightColor * (diffuse + ambient) + texture(roughnessTex, texCoord).r * specular;
+   FragColor = texture(diffuseTex, texCoord); lightColor * (diffuse + ambient) + texture(roughnessTex, texCoord).r * specular;
 }
