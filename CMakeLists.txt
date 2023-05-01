@@ -3,11 +3,11 @@ cmake_minimum_required(VERSION 3.10)
 set(CMAKE_CXX_STANDARD 17)
 
 # set the project name
-project(CGraphics VERSION 0.1)
+project(LVSSim VERSION 0.1)
 
 
 # configure header to pass the version number to source code
-configure_file(src/headers/CGraphicsConfig.h.in CGraphicsConfig.h)
+configure_file(src/headers/LVSSimConfig.h.in LVSSimConfig.h)
 
 #add libraries
 add_library(glfw STATIC IMPORTED)
@@ -16,11 +16,11 @@ set_target_properties(glfw PROPERTIES
   INTERFACE_INCLUDE_DIRECTORIES "${PROJECT_SOURCE_DIR}/inc/GLFW"
 )
 
-set(CGraphicsSources  
+set(LVSSimSources    
                       "src/glad.c" 
                       "src/stb.cpp"
 
-                      "src/CGraphics.cpp"
+                      "src/LVSSim.cpp"
                       "src/EBO.cpp" 
                       "src/VBO.cpp" 
                       "src/VAO.cpp" 
@@ -30,11 +30,11 @@ set(CGraphicsSources
                       )
 
 # add the executable
-add_executable(CGraphics ${CGraphicsSources})
+add_executable(LVSSim ${LVSSimSources})
 
-target_link_libraries(CGraphics glfw)
+target_link_libraries(LVSSim glfw)
 
-target_include_directories(CGraphics PUBLIC 
+target_include_directories(LVSSim PUBLIC 
                             "${PROJECT_BINARY_DIR}"
                             "${PROJECT_SOURCE_DIR}/src/headers"
                             "${PROJECT_SOURCE_DIR}/inc"

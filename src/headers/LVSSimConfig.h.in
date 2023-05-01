@@ -1,0 +1,5 @@
+// the configured options and settings for LVSSim
+#define LVSSim_VERSION_MAJOR @LVSSim_VERSION_MAJOR@
+#define LVSSim_VERSION_MINOR @LVSSim_VERSION_MINOR@
+
+#define LVSSim_Application_Name "LVSSim"

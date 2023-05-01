@@ -1,5 +1,5 @@
-#ifndef CGRAPHICS_H
-#define CGRAPHICS_H
+#ifndef LVSSim_H
+#define LVSSim_H
 
 #include <math.h>
 #include <iostream>
@@ -17,6 +17,6 @@
 #include "Texture.h"
 #include "Camera.h"
 
-#include "CGraphicsConfig.h"
+#include "LVSSimConfig.h"
 
 #endif
