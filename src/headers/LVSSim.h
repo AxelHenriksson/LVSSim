@@ -19,4 +19,20 @@
 
 #include "LVSSimConfig.h"
 
+// Vertices coordinates
+GLfloat windowVertices[] =
+{ // COORDINATES		TEX COORDS
+	0.0f, 0.0f, 0.0f, 	0.0f, 0.0f,
+	1.0f, 0.0f, 0.0f, 	1.0f, 0.0f,
+	1.0f, 1.0f, 0.0f,	1.0f, 1.0f,
+	0.0f, 1.0f, 0.0f, 	0.0f, 1.0f,
+};
+
+// Indices for vertices order
+GLuint windowIndices[] =
+{
+	0, 1, 2,
+	0, 2, 3
+};
+
 #endif
