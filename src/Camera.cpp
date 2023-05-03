@@ -6,7 +6,7 @@ void Camera::updateViewMatrix() {
 }
 
 void Camera::updateProjectionMatrix() {
-    m_projectionMatrix = glm::ortho(-m_dimensions.x/2, m_dimensions.x/2, -m_dimensions.y/2, m_dimensions.y/2, -100.0f, 100.0f);
+    m_projectionMatrix = glm::ortho(-m_scale*m_dimensions.x/2, m_scale*m_dimensions.x/2, -m_scale*m_dimensions.y/2, m_scale*m_dimensions.y/2, -100.0f, 100.0f);
     //projectionMatrix = glm::perspective(glm::radians(FOVdeg), (float)(width / height), nearPlane, farPlane);
 }
 

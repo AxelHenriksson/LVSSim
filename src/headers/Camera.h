@@ -77,6 +77,11 @@ class Camera {
         updateProjectionMatrix();
     }
 
+    void setScale(float scale) {
+        m_scale = scale;
+        updateProjectionMatrix();
+    }
+
 
         
 };
